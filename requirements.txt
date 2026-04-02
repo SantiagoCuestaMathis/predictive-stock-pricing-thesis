@@ -8,3 +8,4 @@ yfinance
 tqdm
 jupyter
 notebook
+linearmodels
